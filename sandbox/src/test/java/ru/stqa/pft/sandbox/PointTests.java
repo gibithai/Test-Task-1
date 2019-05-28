@@ -4,10 +4,11 @@ package ru.stqa.pft.sandbox;
 import org.testng.annotations.Test;
 
 public class PointTests {
-    /*@Test*/
+    @Test
 
- /*  public void testArea() {
-        Point x, y = new Point(7, 9);
-        getClass();
-    }*/
+   public void testArea() {
+    Point p1 = new Point ();
+    Point p2 = new Point ();
+    getClass();
+    }
 }
