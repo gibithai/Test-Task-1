@@ -46,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupCreationTests1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+            <state relative-caret-position="860">
+              <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -156,10 +156,54 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.GroupCreationTests1">
-    <configuration name="MyFirstTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.MyFirstTask" />
-      <module name="sandbox.main" />
+  <component name="RunManager" selected="TestNG.GroupCreationTests1 (3)">
+    <configuration name="GroupCreationTests1 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="addressbook-web-tests.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.addressbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.GroupCreationTests1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupCreationTests1 (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="addressbook-web-tests.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.addressbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.GroupCreationTests1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupCreationTests1 (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="addressbook-web-tests.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.addressbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.GroupCreationTests1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -181,52 +225,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PointTests" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="sandbox.test" />
+    <configuration name="GroupCreationTests1.testGroupCreation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="addressbook-web-tests.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.stqa.pft.sandbox.*" />
+          <option name="PATTERN" value="ru.stqa.pft.addressbook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.stqa.pft.sandbox" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.PointTests" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PointTests.testArea (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="sandbox.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.pft.sandbox.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.stqa.pft.sandbox" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.PointTests" />
-      <option name="METHOD_NAME" value="testArea" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PointTests.testArea" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="sandbox.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.pft.sandbox.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.stqa.pft.sandbox" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.PointTests" />
-      <option name="METHOD_NAME" value="testArea" />
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.GroupCreationTests1" />
+      <option name="METHOD_NAME" value="testGroupCreation" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -236,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.GroupCreationTests1 (3)" />
+        <item itemvalue="TestNG.GroupCreationTests1 (2)" />
+        <item itemvalue="TestNG.GroupCreationTests1 (1)" />
+        <item itemvalue="TestNG.GroupCreationTests1.testGroupCreation" />
         <item itemvalue="TestNG.GroupCreationTests1" />
-        <item itemvalue="TestNG.PointTests.testArea" />
-        <item itemvalue="Application.MyFirstTask" />
-        <item itemvalue="TestNG.PointTests" />
-        <item itemvalue="TestNG.PointTests.testArea (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -258,15 +267,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PointTests - 2019.05.28 at 00h 11m 04s.xml">
-      <configuration name="PointTests" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PointTests - 2019.05.28 at 00h 12m 02s.xml">
-      <configuration name="PointTests" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PointTests - 2019.05.28 at 00h 12m 20s.xml">
-      <configuration name="PointTests" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="PointTests_testArea - 2019.05.28 at 00h 17m 09s.xml">
       <configuration name="PointTests.testArea" configurationId="TestNG" />
     </history-entry>
@@ -287,6 +287,15 @@
     </history-entry>
     <history-entry file="GroupCreationTests1 - 2019.06.03 at 14h 59m 36s.xml">
       <configuration name="GroupCreationTests1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupCreationTests1_testGroupCreation - 2019.06.03 at 15h 10m 06s.xml">
+      <configuration name="GroupCreationTests1.testGroupCreation" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupCreationTests1_(1) - 2019.06.03 at 15h 34m 36s.xml">
+      <configuration name="GroupCreationTests1 (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupCreationTests1_(2) - 2019.06.03 at 15h 35m 52s.xml">
+      <configuration name="GroupCreationTests1 (2)" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -369,8 +378,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupCreationTests1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        <state relative-caret-position="860">
+          <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
         </state>
       </provider>
     </entry>
