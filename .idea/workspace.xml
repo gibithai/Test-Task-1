@@ -65,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/ContactCreationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="380">
+              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -154,10 +154,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="addressbook" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -193,6 +189,40 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.ContactCreationTests">
+    <configuration name="ContactCreationTests (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="addressbook-web-tests.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.addressbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.ContactCreationTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactCreationTests (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="addressbook-web-tests.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.addressbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.ContactCreationTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ContactCreationTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="addressbook-web-tests.test" />
       <extension name="coverage">
@@ -210,7 +240,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupCreationTests1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ContactCreationTests.testContactCreation" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="addressbook-web-tests.test" />
       <extension name="coverage">
         <pattern>
@@ -219,15 +249,16 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.GroupCreationTests1" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.ContactCreationTests" />
+      <option name="METHOD_NAME" value="testContactCreation" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupCreationTests1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ContactCreationTests.testContactCreationTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="addressbook-web-tests.test" />
       <extension name="coverage">
         <pattern>
@@ -236,42 +267,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.GroupCreationTests1" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GroupCreationTests1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="addressbook-web-tests.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.pft.addressbook.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.GroupCreationTests1" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GroupCreationTests1.testGroupCreation" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="addressbook-web-tests.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.pft.addressbook.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.GroupCreationTests1" />
-      <option name="METHOD_NAME" value="testGroupCreation" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.ContactCreationTests" />
+      <option name="METHOD_NAME" value="testContactCreationTests" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -282,10 +279,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.ContactCreationTests" />
-        <item itemvalue="TestNG.GroupCreationTests1 (4)" />
-        <item itemvalue="TestNG.GroupCreationTests1.testGroupCreation" />
-        <item itemvalue="TestNG.GroupCreationTests1 (3)" />
-        <item itemvalue="TestNG.GroupCreationTests1 (2)" />
+        <item itemvalue="TestNG.ContactCreationTests.testContactCreation" />
+        <item itemvalue="TestNG.ContactCreationTests.testContactCreationTests" />
+        <item itemvalue="TestNG.ContactCreationTests (3)" />
+        <item itemvalue="TestNG.ContactCreationTests (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -303,35 +300,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PointTests_testArea - 2019.05.28 at 16h 07m 35s.xml">
-      <configuration name="PointTests.testArea" configurationId="TestNG" />
+    <history-entry file="ContactCreationTests_testContactCreationTests - 2019.06.04 at 16h 05m 08s.xml">
+      <configuration name="ContactCreationTests.testContactCreationTests" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PointTests_testArea - 2019.05.28 at 16h 12m 34s.xml">
-      <configuration name="PointTests.testArea" configurationId="TestNG" />
+    <history-entry file="ContactCreationTests_testContactCreation - 2019.06.04 at 16h 05m 34s.xml">
+      <configuration name="ContactCreationTests.testContactCreation" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="GroupCreationTests1 - 2019.06.03 at 14h 59m 36s.xml">
-      <configuration name="GroupCreationTests1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GroupCreationTests1_testGroupCreation - 2019.06.03 at 15h 10m 06s.xml">
-      <configuration name="GroupCreationTests1.testGroupCreation" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GroupCreationTests1_(1) - 2019.06.03 at 15h 34m 36s.xml">
-      <configuration name="GroupCreationTests1 (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GroupCreationTests1_(2) - 2019.06.03 at 15h 35m 52s.xml">
-      <configuration name="GroupCreationTests1 (2)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GroupCreationTests1_(3) - 2019.06.03 at 15h 41m 11s.xml">
-      <configuration name="GroupCreationTests1 (3)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GroupCreationTests1_testGroupCreation - 2019.06.03 at 15h 56m 11s.xml">
-      <configuration name="GroupCreationTests1.testGroupCreation" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GroupCreationTests1_(4) - 2019.06.04 at 14h 50m 54s.xml">
-      <configuration name="GroupCreationTests1 (4)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ContactCreationTests - 2019.06.04 at 15h 04m 16s.xml">
+    <history-entry file="ContactCreationTests - 2019.06.04 at 16h 06m 10s.xml">
       <configuration name="ContactCreationTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ContactCreationTests_testContactCreation - 2019.06.04 at 16h 06m 37s.xml">
+      <configuration name="ContactCreationTests.testContactCreation" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ContactCreationTests_(2) - 2019.06.04 at 16h 07m 27s.xml">
+      <configuration name="ContactCreationTests (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ContactCreationTests_testContactCreation - 2019.06.04 at 16h 07m 58s.xml">
+      <configuration name="ContactCreationTests.testContactCreation" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ContactCreationTests - 2019.06.04 at 16h 08m 14s.xml">
+      <configuration name="ContactCreationTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ContactCreationTests_(3) - 2019.06.04 at 16h 09m 23s.xml">
+      <configuration name="ContactCreationTests (3)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ContactCreationTests - 2019.06.04 at 16h 09m 38s.xml">
+      <configuration name="ContactCreationTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ContactCreationTests_testContactCreationTests - 2019.06.04 at 16h 10m 03s.xml">
+      <configuration name="ContactCreationTests.testContactCreationTests" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -347,7 +344,7 @@
     <frame x="319" y="16" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27238807" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27238807" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -356,8 +353,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298731" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298731" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39907727" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3298731" />
@@ -376,6 +373,11 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sandbox$ContactCreationTests_testContactCreation.ic" NAME="ContactCreationTests.testContactCreation Coverage Results" MODIFIED="1559653902667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.stqa.pft.addressbook.*</FILTER>
+    </SUITE>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/MyFirstTask.class" />
@@ -409,9 +411,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/addressbook-web-tests/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupCreationTests1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="980">
@@ -429,10 +428,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/addressbook-web-tests/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/ContactCreationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="380">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
